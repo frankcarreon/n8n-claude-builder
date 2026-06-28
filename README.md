@@ -47,11 +47,12 @@ cp .env.example .env
 
 ## Available Prompts
 
-### Frank's Clone Copilot
+### Eliza - Frank's AI Clone Copilot
 
 A comprehensive system prompt for creating an AI assistant that operates as Frank Carreon's personal operating system for career, business, and decision-making.
 
-**Location:** `prompts/frank-copilot-system-prompt.md`
+**Location:** `prompts/eliza-system-prompt.md`
+**Access Guide:** `prompts/HOW_TO_ACCESS_ELIZA.md`
 
 **Features:**
 - Executive-level communication

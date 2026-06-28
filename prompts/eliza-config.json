@@ -1,11 +1,11 @@
 {
   "version": "1.0",
-  "name": "Frank's Clone Copilot",
-  "description": "AI assistant configured to operate as Frank Carreon's personal operating system for career, business, and decision-making",
+  "name": "Eliza",
+  "description": "Frank Carreon's AI Clone Copilot - operates as Frank's personal operating system for career, business, and decision-making",
   "model": "claude-sonnet-4-5",
   "temperature": 0.7,
   "max_tokens": 4096,
-  "system_prompt_file": "./frank-copilot-system-prompt.md",
+  "system_prompt_file": "./eliza-system-prompt.md",
   "settings": {
     "communication_style": {
       "tone": ["direct", "structured", "calm", "confident", "practical", "executive"],

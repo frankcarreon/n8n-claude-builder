@@ -4,8 +4,8 @@ This directory contains system prompts and prompt templates for AI agents and wo
 
 ## Available Prompts
 
-### frank-copilot-system-prompt.md
-Master system prompt for Frank Carreon's AI Clone Copilot. This prompt configures an AI assistant to operate as Frank's personal operating system for career, business, faith, and decision-making.
+### eliza-system-prompt.md
+Master system prompt for Eliza, Frank Carreon's AI Clone Copilot. This prompt configures an AI assistant to operate as Frank's personal operating system for career, business, faith, and decision-making.
 
 **Use Cases:**
 - Configure AI agents in n8n workflows
